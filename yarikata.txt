@@ -1,0 +1,7 @@
+loxコンパイル
+loxc.bat
+loxc.bat "C:\Users\81704\LoxPrac\Doughnut.lox"
+java  codes.com.craftinginterpreters.lox.Lox "C:\Users\81704\LoxPrac\Doughnut.lox"
+
+コミット
+左のgithubから更
