@@ -137,8 +137,10 @@ class Scanner {
   }
 
   private void string() {
-    while (peek() != '"' && !isAtEnd()) {
+    char prev = ' ';
+    while( (peek() != '"' || (peek() == '"' && prev == '\\')) && !isAtEnd()) {
     if (peek() == '\n') line++;
+    prev =peek();
     advance();
     }
 

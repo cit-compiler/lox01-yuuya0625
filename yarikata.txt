@@ -1,7 +1,13 @@
 loxコンパイル
-loxc.bat
-loxc.bat "C:\Users\81704\LoxPrac\Doughnut.lox"
-java  codes.com.craftinginterpreters.lox.Lox "C:\Users\81704\LoxPrac\Doughnut.lox"
+1.表示タブ
+2.ターミナル
+3.コマンドプロンプトにする
+(4.loxc.bat)
+5.loxc.bat "C:\Users\81704\LoxPrac\～～～.lox"
+6.java  codes.com.craftinginterpreters.lox.Lox "C:\Users\81704\LoxPrac\～～～.lox"
 
 コミット
-左のgithubから更
+1.左の〇３つのやつ
+2.メッセージを書く
+3.コミットする
+4.同期を押す
